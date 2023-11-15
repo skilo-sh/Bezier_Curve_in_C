@@ -1,4 +1,4 @@
-# Renderin Bézier Curve in C with SDL
+# Rendering Bézier Curve in C with SDL
 
 ![Thumbnail](thumbnail.png)
 
