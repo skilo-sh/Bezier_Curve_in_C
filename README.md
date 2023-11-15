@@ -8,4 +8,7 @@ gcc *.c -LSDL2 -lm -o prog
 ```
 
 ## Usage
-TODO
+Change screen resolution in pre-processing definition
+```console
+./prog
+```
