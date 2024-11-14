@@ -4,7 +4,7 @@
 
 ## Build
 ```console
-gcc *.c -LSDL2 -lm -o prog
+gcc *.c -lSDL2 -lm -o prog
 ```
 
 ## Usage
